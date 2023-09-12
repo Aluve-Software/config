@@ -12,7 +12,7 @@
         <repository>
             <id>config</id>
             <name>sibo-t</name>
-            <url>https://maven.pkg.github.com/sibo-t/config</url>
+            <url>https://maven.pkg.github.com/Aluve-Software/config</url>
         </repository>
     </distributionManagement>
 
