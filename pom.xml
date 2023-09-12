@@ -11,8 +11,8 @@
     <distributionManagement>
         <repository>
             <id>config</id>
-            <name>Aluve-Software</name>
-            <url>https://maven.pkg.github.com/Aluve-Software/config</url>
+            <name>sibo-t</name>
+            <url>https://maven.pkg.github.com/sibo-t/config</url>
         </repository>
     </distributionManagement>
 
