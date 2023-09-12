@@ -8,6 +8,14 @@
     <artifactId>Configuration</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
+    <distributionManagement>
+        <repository>
+            <id>config</id>
+            <name>Aluve-Software</name>
+            <url>https://maven.pkg.github.com/Aluve-Software/config</url>
+        </repository>
+    </distributionManagement>
+
     <properties>
         <java.version>11</java.version>
         <maven.compiler.target>${java.version}</maven.compiler.target>
