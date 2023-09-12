@@ -10,8 +10,8 @@
 
     <distributionManagement>
         <repository>
-            <id>config</id>
-            <name>Aluve-Software</name>
+            <id>github</id>
+            <name>aluve-software</name>
             <url>https://maven.pkg.github.com/Aluve-Software/config</url>
         </repository>
     </distributionManagement>
