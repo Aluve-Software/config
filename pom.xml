@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tech.aluvesoftware.config</groupId>
-    <artifactId>config</artifactId>
+    <artifactId>config_eqa</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -13,7 +13,7 @@
         <repository>
             <id>github</id>
             <name>aluve-software</name>
-            <url>https://maven.pkg.github.com/Aluve-Software/config</url>
+            <url>https://maven.pkg.github.com/Aluve-Software/config_qa</url>
         </repository>
     </distributionManagement>
 
